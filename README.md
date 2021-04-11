@@ -4,6 +4,8 @@
 
 ![Quiz](https://user-images.githubusercontent.com/63623377/114313985-39966f00-9acf-11eb-8e6d-4c71f0f239d1.gif)
 
+---
+
 ## Start project
   ``` 
     npm install
