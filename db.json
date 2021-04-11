@@ -1,0 +1,38 @@
+{
+    "bg": "chrome-extension://pmhlmkffjggpegjfalceaojhjclhjbbc/start/skin/images/bg-19.jpg",
+    "title": "Game of Thrones",
+    "description": "Teste, usando tema de Game of Thrones ...",
+
+    "questions": [{
+            "image": "https://i.pinimg.com/originals/5a/61/02/5a6102b795b4a0c645e4a329142badfa.gif",
+            "title": "Qual verdadeiro nome dele ?",
+            "description": "Name",
+            "answer": 3,
+            "alternatives": [
+                "Sky Jon",
+                "Aharon Stark",
+                "Jon Snow",
+                "Aegon Targaryen"
+            ]
+        },
+        {
+            "image": "https://s.aficionados.com.br/imagens/stark.gif",
+            "title": "Qual é o nome da família que o escudo é um lobo?",
+            "description": "Family",
+            "answer": 0,
+            "alternatives": [
+                "Casa Stark",
+                "Casa Lannister",
+                "Casa Targaryen",
+                "Casa Tyrell"
+            ]
+        }
+    ],
+    "theme": {
+        "colors": {
+            "primary": "#fff",
+            "secondary": "#d32f2f",
+            "terciaria": "#212121"
+        }
+    }
+}
